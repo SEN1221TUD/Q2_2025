@@ -21,7 +21,7 @@ Below, you can find the dates for the lab sessions and the partial exams:
 | Second lab session (MXL)    | November 24, 2025     | 10:30 AM        |
 | Third lab session (ML)      | December 01, 2025     | 10:30 AM        |
 | Partial Exam                | December 08, 2025     | 13:30 PM       |
-| Resit partial Exam          | **January 15, 2025**      | 16:45 AM       |
+| Resit partial Exam          | January 16, 2026      | 13:30 PM       |
 
 
 Please review the information below carefully.
