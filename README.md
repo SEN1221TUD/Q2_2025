@@ -15,13 +15,16 @@ The course consists of oral lectures and lab sessions. During the lab sessions, 
 
 Below, you can find the dates for the lab sessions and the partial exams:
 
-| **Event**                   | **Date**              | **Time**       |
-|-----------------------      |--------------------   |----------------|
-| First lab session (MNL)     | November 17, 2025     | 10:30 AM        |
-| Second lab session (MXL)    | November 24, 2025     | 10:30 AM        |
-| Third lab session (ML)      | December 01, 2025     | 10:30 AM        |
-| Partial Exam                | December 08, 2025     | 13:30 PM       |
-| Resit partial Exam          | January 16, 2026      | 13:30 PM       |
+| **Event**                    | **Date**              | **Time**    |.  *Remarks*  |
+|-----------------------       |--------------------   |-------------|--------------|
+| Python env support hour      | November 17, 2025     | 09:45-10:45 | *optional*   |
+| Lab session 1 (MNL)          | November 17, 2025     | 10:45-12:30 |              |
+| Lab session 2 (MXL)          | November 24, 2025     | 10:45-12:30 |              |
+| Lab session 3 (ML)           | December 01, 2025     | 10:45-12:30 |              |
+| Partial Exam                 | December 08, 2025     | 13:30-15:30 |              |
+| Inspection Partial Exam      | December 17, 2026     | 12:45-13:30 | No other opportunity will be offered |
+| Resit Partial Exam           | January 16, 2026      | 13:30-15:30 |              |
+| Inspection Resit Partial Exam| January 16, 2026      | 11:45-12:30 | No other opportunity will be offered |
 
 
 Please review the information below carefully.
@@ -36,7 +39,7 @@ Lab sessions are offered in the form of Jupyter notebooks and aim to demonstrate
 
 `Lab session 3` focuses on the latest developments in the field: combining discrete choice modelling and machine learning for choice behaviour analysis. You will work with neural networks and explore how they can be integrated within utility-based choice models.   
 
-For the lab sessions, we use Python notebooks (aka Jupyter Notebooks). You have three options to work with them. 
+For the lab sessions, we use Python notebooks (aka Jupyter Notebooks). You have two options to work with them. 
 A. Anaconda
 B. Pip 
 For each option, **instructions** to set up your Python environment are given at the **end of this page**.
@@ -74,11 +77,11 @@ After that, the lecturer or teaching assistant will reply to your question. Also
 
 ## 5. Instructions to set up your workspace
 
-In this section, we will guide you through the configuration of your Python environment for the Choice Behaviour Modelling part of the course. You have have to set up your environment once. This enviroment will work for all lab sessions.
+In this section, we will guide you through the configuration of your Python environment for the Choice Behaviour Modelling part of the course. You have to set up your environment once. This environment will work for all lab sessions.
 
 ### Setting up Python environment using Anaconda
 
-Anaconda is a popular platform for managing Python environments. If you’re using Anaconda, it’s recommended to use Python version **3.12.11** to avoid compatibility issues. Other versions, such as **3.10, 3.9 or  older**, are known to give some problems.
+Anaconda is a popular platform for managing Python environments. It is **strongly** recommended to create a **fresh** environment that uses Python version **3.12.11**.Other versions of Python, such as **3.10, 3.9 or  older**, are known to give some problems. Also, reusing an environment from another course is a recipe for installation troubles.
 
 Step-by-Step Instructions:
 
