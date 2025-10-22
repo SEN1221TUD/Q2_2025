@@ -156,7 +156,7 @@ Step-by-Step Instructions:
 
 #### D. Install the required Python packages
 
-1. In Anaconda Navigator, RIGHT-click the green (image of button) button next to the environment name
+1. In Anaconda Navigator, LEFT-click the green (image of button) button next to the environment name
 
 2. Choose **Open Terminal**
 
