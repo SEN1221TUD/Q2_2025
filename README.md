@@ -28,11 +28,11 @@ Below, you can find the dates for the lab sessions and the practical exams:
 | Theoretical Exam             | January 29, 2026      | 09:00-12:00 |              |
 | Resit Theoretical Exam       | April 09, 2026        | 09:00-12:00 |              |
 
-
 Please review the information below carefully.
 
 
-## Lab sessions
+## 3. Lab sessions
+### 3.1. Overview of lab sessions
 Lab sessions are offered in the form of Jupyter notebooks and aim to demonstrate and reinforce knowledge about discrete choice models, the underlying assumptions, estimation techniques, and how to interpret outcomes. They provide **hands-on** experience in discrete choice modelling, which is essential to master the method. Each lab session comprises two parts: A and B, and include a series of **exercises**.
 
 `Lab session 1` introduces discrete choice models, focusing specifically on the Multinomial Logit (MNL) model based on random utility theory. You will acquire skills to explore choice datasets, build and estimate choice models using specialised Python package called Biogeme, and perform statistical tests to compare different model specifications.
@@ -46,9 +46,18 @@ A. Anaconda
 B. Pip 
 For each option, **instructions** to set up your Python environment are given at the **end of this page**.
 
-If you are **unfamiliar with Python**, we recommend completing **lab session 0**, which provides the necessary tools to conduct the lab sessions. It covers topics such as data structures, utilising external libraries, data exploration, visualisation, etc. 
+If you are **unfamiliar with Python**, we recommend completing [**lab session 0**](https://github.com/SEN1221TUD/Q2_2025/blob/main/Lab_sessions/Lab_session_00/lab_session_00.ipynb), which provides the necessary tools to conduct the lab sessions. It covers topics such as data structures, utilising external libraries, data exploration, visualisation, etc.
 
-## Tutorials
+### 3.2. Lab Session publication dates
+The lab sessions and answers will be available on the following dates:
+
+| Week | Lab session | Publication date<br>Lab session | Publication date<br>Answers |
+|:----:|:-----------:|:--------------------------------:|:------------------------------------------:|
+| 47   | Lab 1       | ⏳ 10-11-2025 09:00 | ⏳ 24-11-2025 09:00 |
+| 48   | Lab 2       | ⏳ 24-11-2025 09:00 | ⏳ 01-12-2025 09:00 |
+| 49   | Lab 3       | ⏳ 01-12-2025 09:00 | ⏳ 04-12-2025 09:00 |
+
+## 4. Tutorials
 Tutorials are supplementary materials, offered to help you deepen your understanding of key concepts in choice modelling. These ([tutorials](https://github.com/SEN1221TUD/Tutorials)) aim to reinforce your understanding of the topics covered. They do not contain exercises, but are part of the SEN122A course material.<br>
 
 Here, you will find tutorials. Tutorials aim to explain concepts that are important to choice modelling. The current list of topics is:
@@ -62,7 +71,7 @@ Here, you will find tutorials. Tutorials aim to explain concepts that are import
 
 The list of tutorials may be further extended in the future.
 
-## 4. Q&A forum
+## 5. Q&A forum
 
 We use the [Issues](https://github.com/SEN1221TUD/Q2_2025/issues) section as the Q&A platform of this course (Part 1: Choice Behaviour Modelling). This is where you can post questions related to lecture content, lab sessions, or technical issues with Python. Before you create a new issue, please make sure that the same question hasn’t already been raised by one of your peers. You can also contribute to ongoing discussions by commenting on existing issues to continue the conversation or provide additional insights. As an example, we have already created the first issue; see [Issues](https://github.com/SEN1221TUD/Q2_2025/issues).
 
@@ -77,7 +86,7 @@ To create a new issue (question or problem) in the course repository, follow the
 
 After that, the lecturer or teaching assistant will reply to your question. Also, you are encouraged to reply to questions posted by your fellow students! If you know how to help your fellow student with an issue, share your thoughts!
 
-## 5. Instructions to set up your workspace
+## 6. Instructions to set up your workspace
 
 In this section, we will guide you through the configuration of your Python environment for the Choice Behaviour Modelling part of the course. You have to set up your environment once. This environment will work for all lab sessions.
 
