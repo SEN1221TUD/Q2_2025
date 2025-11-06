@@ -25,6 +25,8 @@ Below, you can find the dates for the lab sessions and the partial exams:
 | Inspection Partial Exam      | December 17, 2026     | 12:45-13:30 | No other opportunity will be offered |
 | Resit Partial Exam           | January 16, 2026      | 13:30-15:30 |              |
 | Inspection Resit Partial Exam| January 16, 2026      | 11:45-12:30 | No other opportunity will be offered |
+| Theoretical Exam             | January 29, 2026      | 09:00-12:00 |              |
+| Resit Theoretical Exam       | April 09, 2026        | 09:00-12:00 |              |
 
 
 Please review the information below carefully.
