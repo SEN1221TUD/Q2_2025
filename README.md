@@ -13,7 +13,7 @@ This course aims to equip students in the socio-technical domain with a comprehe
 
 The course consists of oral lectures and lab sessions. During the lab sessions, students will work with Python-based tools to estimate models and analyze datasets. Attendance at both the lectures and lab sessions is highly recommended to keep up with the course content, although it is not mandatory.
 
-Below, you can find the dates for the lab sessions and the partial exams:
+Below, you can find the dates for the lab sessions and the practical exams:
 
 | **Event**                    | **Date**              | **Time**    |.  *Remarks*  |
 |-----------------------       |--------------------   |-------------|--------------|
@@ -21,10 +21,10 @@ Below, you can find the dates for the lab sessions and the partial exams:
 | Lab session 1 (MNL)          | November 17, 2025     | 10:45-12:30 |              |
 | Lab session 2 (MXL)          | November 24, 2025     | 10:45-12:30 |              |
 | Lab session 3 (ML)           | December 01, 2025     | 10:45-12:30 |              |
-| Partial Exam                 | December 08, 2025     | 13:30-15:30 |              |
-| Inspection Partial Exam      | December 17, 2026     | 12:45-13:30 | No other opportunity will be offered |
-| Resit Partial Exam           | January 16, 2026      | 13:30-15:30 |              |
-| Inspection Resit Partial Exam| January 16, 2026      | 11:45-12:30 | No other opportunity will be offered |
+| Practical Exam                 | December 08, 2025     | 13:30-15:30 |              |
+| Inspection Practical Exam      | December 17, 2026     | 12:45-13:30 | No other opportunity will be offered |
+| Resit Practical Exam           | January 16, 2026      | 13:30-15:30 |              |
+| Inspection Resit Practical Exam| January 16, 2026      | 11:45-12:30 | No other opportunity will be offered |
 | Theoretical Exam             | January 29, 2026      | 09:00-12:00 |              |
 | Resit Theoretical Exam       | April 09, 2026        | 09:00-12:00 |              |
 
