@@ -1,4 +1,3 @@
-### Lab Session publication dates
 This lab session and its answers will be available on the following dates:
 
 | Week | Lab session | Publication date<br>Lab session | Publication date<br>Answers |
