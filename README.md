@@ -1,4 +1,4 @@
-# SEN122A- Statistical Analysis of Choice Behaviour 2025
+<img width="22" height="22" alt="2705" src="https://github.com/user-attachments/assets/f63addaf-d172-4488-94b4-ed3afe4177e9" /># SEN122A- Statistical Analysis of Choice Behaviour 2025
 
 ## 1. Introduction
 
@@ -53,9 +53,10 @@ The lab sessions and answers will be available on the following dates:
 
 | Week | Lab session | Publication date<br>Lab session | Publication date<br>Answers |
 |:----:|:-----------:|:--------------------------------:|:------------------------------------------:|
-| 47   | Lab 1       | ⏳ 10-11-2025 09:00 | ⏳ 24-11-2025 09:00 |
+| 47   | Lab 1       | ✅ [Available](https://github.com/SEN1221TUD/Q2_2025/tree/main/Lab_sessions/Lab_session_01) | ⏳ 24-11-2025 09:00 |
 | 48   | Lab 2       | ⏳ 24-11-2025 09:00 | ⏳ 01-12-2025 09:00 |
 | 49   | Lab 3       | ⏳ 01-12-2025 09:00 | ⏳ 04-12-2025 09:00 |
+
 
 ## 4. Tutorials
 Tutorials are supplementary materials, offered to help you deepen your understanding of key concepts in choice modelling. These ([tutorials](https://github.com/SEN1221TUD/Tutorials)) aim to reinforce your understanding of the topics covered. They do not contain exercises, but are part of the SEN122A course material.<br>
