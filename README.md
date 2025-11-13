@@ -1,4 +1,4 @@
-<img width="22" height="22" alt="2705" src="https://github.com/user-attachments/assets/f63addaf-d172-4488-94b4-ed3afe4177e9" /># SEN122A- Statistical Analysis of Choice Behaviour 2025
+# SEN122A- Statistical Analysis of Choice Behaviour 2025
 
 ## 1. Introduction
 
