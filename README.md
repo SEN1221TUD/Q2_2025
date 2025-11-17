@@ -93,7 +93,7 @@ In this section, we will guide you through the configuration of your Python envi
 
 ### Setting up Python environment using Anaconda
 
-Anaconda is a popular platform for managing Python environments. It is **strongly** recommended to create a **fresh** environment that uses Python version **3.12.11**.Other versions of Python, such as **3.10, 3.9 or  older**, are known to give some problems. Also, reusing an environment from another course is a recipe for installation troubles.
+Anaconda is a popular platform for managing Python environments. It is **strongly** recommended to create a **fresh** environment that uses Python version **3.12.12** or **3.12.11**.Other versions of Python, such as **3.10, 3.9 or  older**, are known to give some problems. Also, reusing an environment from another course is a recipe for installation troubles.
 
 Step-by-Step Instructions:
 
