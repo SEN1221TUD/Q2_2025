@@ -1,9 +1,9 @@
 ## Lab sessions
 ### Overview of lab sessions
 Lab sessions are offered in the form of Jupyter notebooks and aim to demonstrate and reinforce knowledge about discrete choice models, the underlying assumptions, estimation techniques, and how to interpret outcomes. They provide **hands-on** experience in discrete choice modelling, which is essential to master the method. 
-For the lab sessions, we use Python notebooks (aka Jupyter Notebooks). Each lab session comprises two parts: A and B, and include a series of **exercises**.
+For the lab sessions, we use Python notebooks (aka Jupyter Notebooks). Each lab session comprises two parts: A and B, and includes a series of **exercises**.
 
-`Lab session 1` introduces discrete choice models, focusing specifically on the Multinomial Logit (MNL) model based on random utility theory. You will acquire skills to explore choice datasets, build and estimate choice models using specialised Python package called Biogeme, and perform statistical tests to compare different model specifications.
+`Lab session 1` introduces discrete choice models, focusing specifically on the Multinomial Logit (MNL) model based on random utility theory. You will acquire skills to explore choice datasets, build and estimate choice models using a specialised Python package called Biogeme, and perform statistical tests to compare different model specifications.
 
 `Lab session 2` focuses on the Mixed Logit models. You will gain proficiency in building and estimating various types of Mixed Logit models by altering assumptions about unobserved preference and taste heterogeneity. Furthermore, you will explore the impact of the number of draws on the estimation outcomes. 
 
