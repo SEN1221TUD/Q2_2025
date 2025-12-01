@@ -1,0 +1,44 @@
+[Output]
+identification_threshold = 1e-5
+only_robust_stats = "True"
+generate_html = "True"
+generate_pickle = "True"
+
+[TrustRegion]
+dogleg = "True"
+
+[MonteCarlo]
+number_of_draws = 150
+seed = 0
+
+[Specification]
+missing_data = 99999
+
+[SimpleBounds]
+second_derivatives = 1.0
+tolerance = 0.0001220703125
+max_iterations = 1000
+infeasible_cg = "False"
+initial_radius = 1
+steptol = 1e-5
+enlarging_factor = 10
+
+[AssistedSpecification]
+maximum_number_parameters = 50
+number_of_neighbors = 20
+largest_neighborhood = 20
+maximum_attempts = 100
+
+[Biogeme]
+version = "3.2.14"
+
+[MultiThreading]
+number_of_threads = 0
+
+[Estimation]
+bootstrap_samples = 100
+large_data_set = 100000
+max_number_parameters_to_report = 15
+save_iterations = "True"
+maximum_number_catalog_expressions = 100
+optimization_algorithm = "automatic"
