@@ -1,7 +1,7 @@
 # Ignore all .log files
 *.log
 *.iter
-*.toml
+
 
 # Ignore node_modules directory
 node_modules/
