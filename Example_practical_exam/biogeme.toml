@@ -9,7 +9,7 @@ dogleg = "True"
 
 [MonteCarlo]
 number_of_draws = 150
-seed = 0
+seed = 42
 
 [Specification]
 missing_data = 99999
