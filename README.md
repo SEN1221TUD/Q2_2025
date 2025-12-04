@@ -55,7 +55,7 @@ The lab sessions and answers will be available on the following dates:
 |:----:|:-----------:|:--------------------------------:|:------------------------------------------:|
 | 47   | Lab 1       | ✅ [Available](https://github.com/SEN1221TUD/Q2_2025/tree/main/Lab_sessions/Lab_session_01) | ✅ [Available](https://github.com/SEN1221TUD/Q2_2025/tree/main/Lab_sessions/Lab_session_01) |
 | 48   | Lab 2       | ✅ [Available](https://github.com/SEN1221TUD/Q2_2025/tree/main/Lab_sessions/Lab_session_02) | ✅ [Available](https://github.com/SEN1221TUD/Q2_2025/tree/main/Lab_sessions/Lab_session_02) |
-| 49   | Lab 3       | ✅ [Available](https://github.com/SEN1221TUD/Q2_2025/tree/main/Lab_sessions/Lab_session_03) | ⏳ 04-12-2025 09:00 |
+| 49   | Lab 3       | ✅ [Available](https://github.com/SEN1221TUD/Q2_2025/tree/main/Lab_sessions/Lab_session_03) | ✅ [Available](https://github.com/SEN1221TUD/Q2_2025/tree/main/Lab_sessions/Lab_session_03) |
 
 
 ## 4. Tutorials
