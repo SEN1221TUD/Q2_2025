@@ -14,7 +14,7 @@ In the checklist below, you can find important topics and tasks that you should 
 - [ ] I can import new libraries
 - [ ] I can import methods and functions from libraries
 - [ ] I can run and add new cells in the Jupyter Notebook
-- [ ] I can handle errors in Jupyter Notebook
+- [ ] I can handle errors in Jupyter Notebook (see [tutorial0](https://github.com/SEN1221TUD/Tutorials/blob/main/tutorial0/tutorial0_errors.ipynb), which covers common errors)
 - [ ] I can restart the kernel in case the notebook crashes
 
 #### Data exploration
