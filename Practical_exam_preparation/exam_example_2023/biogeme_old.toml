@@ -1,18 +1,8 @@
 [Output]
 identification_threshold = 1e-5
 only_robust_stats = "True"
-generate_html = "False"
-generate_pickle = "False"
-
-[TrustRegion]
-dogleg = "True"
-
-[MonteCarlo]
-number_of_draws = 150
-seed = 42
-
-[Specification]
-missing_data = 99999
+generate_html = "True"
+generate_pickle = "True"
 
 [SimpleBounds]
 second_derivatives = 1.0
@@ -23,14 +13,18 @@ initial_radius = 1
 steptol = 1e-5
 enlarging_factor = 10
 
+[Biogeme]
+version = "3.2.14"
+
 [AssistedSpecification]
 maximum_number_parameters = 50
 number_of_neighbors = 20
 largest_neighborhood = 20
 maximum_attempts = 100
 
-[Biogeme]
-version = "3.2.14"
+[MonteCarlo]
+number_of_draws = 150
+seed = 0
 
 [MultiThreading]
 number_of_threads = 0
@@ -42,3 +36,9 @@ max_number_parameters_to_report = 15
 save_iterations = "True"
 maximum_number_catalog_expressions = 100
 optimization_algorithm = "automatic"
+
+[Specification]
+missing_data = 99999
+
+[TrustRegion]
+dogleg = "True"

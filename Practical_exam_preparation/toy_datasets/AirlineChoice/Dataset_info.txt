@@ -1,0 +1,25 @@
+Column Descriptions
+cntxt (int): Context
+ID (int): Unique ID of respondents
+Choice (int): Key of the chosen alternative
+x11 (int): Ticket price (euro) of alternative 1
+x12 (int): CO2 offsetting contribution (%) of alternative 1
+x13 (int): Luggage allowance (kg) of alternative 1
+x14 (int): Eco efficiency label of alternative 1
+x21 (int): Ticket price (euro) of alternative 2
+x22 (int): CO2 offsetting contribution (%) of alternative 2
+x23 (int): Luggage allowance (kg) of alternative 2
+x24 (int): Eco efficiency label of alternative 2
+x31 (int): Ticket price (euro) of alternative 3
+x32 (int): CO2 offsetting contribution (%) of alternative 3
+x33 (int): Luggage allowance (kg) of alternative 3
+x34 (int): Eco efficiency label of alternative 3
+AV1 (int): Availability condition for alternative 1
+AV2 (int): Availability condition for alternative 2
+AV3 (int): Availability condition for alternative 3
+
+For attribute 4, the following mapping is applied: {1: "A", 2: "B",3: "C"), where "A" denotes a so-called green airline, B denotes an average fuel-efﬁcient airline, and C denotes a so-called grey airline.
+
+See for more information about the data collections:
+https://www.tandfonline.com/doi/epdf/10.1080/15568318.2016.1149645?needAccess=true
+
