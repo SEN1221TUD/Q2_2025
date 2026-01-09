@@ -20,7 +20,7 @@ In the checklist below, you can find important topics and tasks that you should 
 #### Data exploration
 - [ ] I can load dataset (e.g. CSV, dat, txt, etc.) into a pandas DataFrame
 - [ ] I can calculate basic statistics (mean, median, mode, standard deviation, etc.) e.g. to see if the sample is representative.
-- [ ] I can prepare the data for analysis (e.g. handle missing values, encode categorical variables)
+- [ ] I can prepare the data for analysis (e.g. filter data, handle missing values, encode categorical variables)
 - [ ] I can visualise the data using libraries such as Matplotlib or Seaborn using different types of plots (e.g. histograms, scatter plots, etc.)
 
 #### Discrete choice modelling with Biogeme
