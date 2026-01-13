@@ -20,6 +20,8 @@ AV3 (int): Availability condition for alternative 3
 
 For attribute 4, the following mapping is applied: {1: "A", 2: "B",3: "C"), where "A" denotes a so-called green airline, B denotes an average fuel-efﬁcient airline, and C denotes a so-called grey airline.
 
+Note that the wide data has few observations because respondents who did not complete all 9 choice tasks were dropped.
+
 See for more information about the data collections:
 https://www.tandfonline.com/doi/epdf/10.1080/15568318.2016.1149645?needAccess=true
 
