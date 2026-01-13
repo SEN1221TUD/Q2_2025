@@ -2,7 +2,8 @@ Column Descriptions
 RespID		denotes the respondent identifier
 Card		denotes the choice task identifier
 Mode		denotes the mode of transport, where 1 = Car, 2 = Train, 3 = Bus/Tram/Metro (BTM)
-TravTime	denotes the current travel time of the respondent
+BaseTime	denotes the current travel time of the respondent
+BaseCost	denotes the current travel cost of the respondent
 Gender		1 = male, 2 = female	
 AgeClass	AgeClass: 1 = 16-20 yr., 2 = 21-35 yr., 3 = 36-50 yr., 4 = 51-64 yr., 5 = 65+ yr.
 IncClass	Gross Income: 1 = inc < 2,000, 2 = 2,000 < inc <2,500, 3 = 2,500 < inc < 3,000, 4 = 3,000 < inc < 3,500, 5 = 3,500 < inc <5,000, 6 = 5,000 < inc < 7,500, 7 = 7,500 < inc < 10,000, 8 = +10,000. (Currency = guilder)
@@ -10,7 +11,7 @@ TimeL		Travel Time Left alternative [minutes]
 TimeR 		Travel Time Right alternative [minutes]
 CostL		Travel Cost Left alternative [guilder]
 CostR		Travel Cost Right alternative [guilder]
-RealChoice	denotes the choice, where 1 = left, 2 = right
+Choice	    denotes the choice, where 1 = left, 2 = right
 TravTimeClass	Travel time segments, based on TravTime : 1 = 45 minutes or less, 2 = 46 to 90 minutes, 3 = 91 to 135 minutes, 4 = 136 minutes or longer.
 Purpose		Travel purpose: 1 = Commute, 2 = Business, 3 = Other
 
