@@ -15,18 +15,19 @@ The course consists of oral lectures and lab sessions. During the lab sessions, 
 
 Below, you can find the dates for the lab sessions and the practical exams:
 
-| **Event**                    | **Date**              | **Time**    |.  *Remarks*  |
-|-----------------------       |--------------------   |-------------|--------------|
-| Python env support hour      | November 17, 2025     | 09:45-10:45 | *optional*   |
-| Lab session 1 (MNL)          | November 17, 2025     | 10:45-12:30 |              |
-| Lab session 2 (MXL)          | November 24, 2025     | 10:45-12:30 |              |
-| Lab session 3 (ML)           | December 01, 2025     | 10:45-12:30 |              |
-| Practical Exam                 | December 08, 2025     | 13:30-15:30 |              |
-| Inspection Practical Exam      | December 17, 2026     | 12:45-13:30 | No other opportunity will be offered |
-| Resit Practical Exam           | January 16, 2026      | 13:30-15:30 |              |
-| Inspection Resit Practical Exam| January 16, 2026      | 11:45-12:30 | No other opportunity will be offered |
-| Theoretical Exam             | January 29, 2026      | 09:00-12:00 |              |
-| Resit Theoretical Exam       | April 09, 2026        | 09:00-12:00 |              |
+|**Week**| **Event**                    | **Date**              | **Time**    |.  *Remarks*  |
+| ------ |-----------------------       |--------------------   |-------------|--------------|
+| 2.2    | Python env support hour      | November 17, 2025     | 09:45-10:45 | *optional*   |
+| 2.2    | Lab session 1 (MNL)          | November 17, 2025     | 10:45-12:30 |              |
+| 2.3    | Lab session 2 (MXL)          | November 24, 2025     | 10:45-12:30 |              |
+| 2.4    | Lab session 3 (ML)           | December 01, 2025     | 10:45-12:30 |              |
+| 2.5    | Practical Exam                 | December 08, 2025     | 13:30-15:30 |              |
+| 2.6    | Inspection Practical Exam      | December 17, 2026     | 12:45-13:30 | No other opportunity will be offered |
+| 2.8    | Resit Practical Exam           | January 16, 2026      | 13:30-15:30 |              |
+| 2.9    | Inspection Resit Practical Exam| January 23, 2026      | 11:45-12:30 | No other opportunity will be offered |
+| 2.10   | Q&A exam preparation Part 1    | January 26, 2026      | 16:00-17:00 |            |
+| 2.10   | Theoretical Exam             | January 29, 2026      | 09:00-12:00 |              |
+| 3.9    | Resit Theoretical Exam       | April 09, 2026        | 09:00-12:00 |              |
 
 Please review the information below carefully.
 
@@ -53,10 +54,9 @@ The lab sessions and answers will be available on the following dates:
 
 | Week | Lab session | Publication date<br>Lab session | Publication date<br>Answers |
 |:----:|:-----------:|:--------------------------------:|:------------------------------------------:|
-| 47   | Lab 1       | ✅ [Available](https://github.com/SEN1221TUD/Q2_2025/tree/main/Lab_sessions/Lab_session_01) | ✅ [Available](https://github.com/SEN1221TUD/Q2_2025/tree/main/Lab_sessions/Lab_session_01) |
-| 48   | Lab 2       | ✅ [Available](https://github.com/SEN1221TUD/Q2_2025/tree/main/Lab_sessions/Lab_session_02) | ✅ [Available](https://github.com/SEN1221TUD/Q2_2025/tree/main/Lab_sessions/Lab_session_02) |
-| 49   | Lab 3       | ✅ [Available](https://github.com/SEN1221TUD/Q2_2025/tree/main/Lab_sessions/Lab_session_03) | ✅ [Available](https://github.com/SEN1221TUD/Q2_2025/tree/main/Lab_sessions/Lab_session_03) |
-
+| 47   | Lab 1       | ⏳ 10-11-2025 09:00 | ⏳ 24-11-2025 09:00 |
+| 48   | Lab 2       | ⏳ 24-11-2025 09:00 | ⏳ 01-12-2025 09:00 |
+| 49   | Lab 3       | ⏳ 01-12-2025 09:00 | ⏳ 04-12-2025 09:00 |
 
 ## 4. Tutorials
 Tutorials are supplementary materials, offered to help you deepen your understanding of key concepts in choice modelling. These ([tutorials](https://github.com/SEN1221TUD/Tutorials)) aim to reinforce your understanding of the topics covered. They do not contain exercises, but are part of the SEN122A course material.<br>
@@ -93,7 +93,7 @@ In this section, we will guide you through the configuration of your Python envi
 
 ### Setting up Python environment using Anaconda
 
-Anaconda is a popular platform for managing Python environments. It is **strongly** recommended to create a **fresh** environment that uses Python version **3.12.11** or **3.12.12**.Other versions of Python, such as **3.10, 3.9 or  older**, are known to give some problems. Also, reusing an environment from another course is a recipe for installation troubles.
+Anaconda is a popular platform for managing Python environments. It is **strongly** recommended to create a **fresh** environment that uses Python version **3.12.11**.Other versions of Python, such as **3.10, 3.9 or  older**, are known to give some problems. Also, reusing an environment from another course is a recipe for installation troubles.
 
 Step-by-Step Instructions:
 
